@@ -1,3 +1,3 @@
 ![Chouette](chouette.png)
 
-We're working a public (and opensource) `chouette-core` version. Stay tuned !
+We're working on a public (and open source) `chouette-core` version. Stay tuned!
